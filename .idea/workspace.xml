@@ -2,71 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="312e0602-20b3-451b-8dcf-fceda51af409" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DreamProject/Amazon/src/test/java/TestHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DreamProject/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MidtermNovember2018" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ParserDemo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/Pre-Midterm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/out/production/Pre-Midterm/Fibonacci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/out/production/Pre-Midterm/FindMissingNumber/sorting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/out/production/Pre-Midterm/META-INF/Pre-Midterm.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/out/production/Pre-Midterm/MathProblems/CollectionView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/out/production/Pre-Midterm/MathProblems/MakePyramid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/src/FindMissingNumber/sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/src/MathProblems/CollectionView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/src/MathProblems/FindMissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pre-Midterm/src/MathProblems/MakePyramid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/.idea/mongoSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/Project-7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/src/ds/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/src/ds/UseArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/src/ds/UseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/src/iterator/UseForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/src/iterator/UseIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/src/nestedclass/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-7/src/nestedclass/TestNestedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/Project-8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/src/DS/UseHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/src/DS/UseHashMapList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/src/DS/UseMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/src/DS/UseQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/src/DS/UseStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/src/Nested/NestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/src/Nested/Outter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/src/Singleton/DemoSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project-8/src/Singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project9/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project9/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project9/Project9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project9/out/production/Project9/META-INF/Project9.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project9/out/production/Project9/Swap/Swap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project9/src/Sorting/ImplementSelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project9/src/Swap/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/SaksTestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwapConcept/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwapConcept/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwapConcept/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwapConcept/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwapConcept/SwapConcept.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwapConcept/out/production/SwapConcept/SwapCon/SwapInt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwapConcept/src/SwapCon/SwapInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidtermNovember2018" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermNovember2018" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix" beforeDir="false" afterPath="$PROJECT_DIR$/../Netflix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParserDemo" beforeDir="false" afterPath="$PROJECT_DIR$/../ParserDemo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project10" beforeDir="false" afterPath="$PROJECT_DIR$/../Project10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2019" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2019" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumMultiModuleMavenProjectFrameworks" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumMultiModuleMavenProjectFrameworks" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -110,17 +53,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Searching/Items.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="465">
+              <caret line="31" selection-start-line="4" selection-end-line="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestHome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="64" selection-start-line="64" selection-end-line="64" />
+            <state relative-caret-position="450">
+              <caret line="71" selection-start-line="35" selection-start-column="2" selection-end-line="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/SaksTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -169,7 +112,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -224,8 +167,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="632" />
-    <option name="y" value="28" />
+    <option name="x" value="86" />
+    <option name="y" value="23" />
     <option name="width" value="1487" />
     <option name="height" value="923" />
   </component>
@@ -340,12 +283,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546698523066" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547297323248" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -375,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestHome">
+  <component name="RunManager" selected="TestNG./Users/dola/IdeaProjects/SaksFifthAvenue/src/test/resources/SaksTestRunner.xml">
     <configuration name="SaksTestHome" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SaksFifthAvenue" />
       <option name="PACKAGE_NAME" value="" />
@@ -404,6 +347,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/dola/IdeaProjects/SaksFifthAvenue/src/test/resources/SaksTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SaksFifthAvenue" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/SaksTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="&lt;default&gt; (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SaksWebSite" />
       <option name="PACKAGE_NAME" value="" />
@@ -425,13 +378,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.&lt;default&gt;" />
-      <item itemvalue="TestNG.&lt;default&gt; (1)" />
       <item itemvalue="TestNG.SaksTestHome" />
       <item itemvalue="TestNG.TestHome" />
+      <item itemvalue="TestNG.&lt;default&gt; (1)" />
+      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG./Users/dola/IdeaProjects/SaksFifthAvenue/src/test/resources/SaksTestRunner.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/dola/IdeaProjects/SaksFifthAvenue/src/test/resources/SaksTestRunner.xml" />
         <item itemvalue="TestNG.TestHome" />
         <item itemvalue="TestNG.SaksTestHome" />
         <item itemvalue="TestNG.&lt;default&gt; (1)" />
@@ -485,8 +440,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="632" y="28" width="1487" height="923" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="337" width="1487" height="923" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26712802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -502,7 +456,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32972324" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32972324" />
@@ -514,6 +468,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Mongo Explorer" order="8" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2567474" />
@@ -590,18 +545,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Searching/Items.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="4" selection-end-line="31" />
         </state>
       </provider>
     </entry>
@@ -612,20 +557,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestHome.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/SaksTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="285">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="71" selection-start-line="35" selection-start-column="2" selection-end-line="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/SaksTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestHome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
